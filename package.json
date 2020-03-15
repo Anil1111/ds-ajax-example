@@ -1,0 +1,8 @@
+{
+  "name": "ajax-example",
+  "version": "1.0.0",
+  "description": "A simple application using AJAX developed for Distributed Systems class",
+  "main": "index.js",
+  "author": "Lucas Hiago <lucashiago63@gmail.com>",
+  "license": "MIT"
+}
